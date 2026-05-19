@@ -35,7 +35,7 @@ function generateContacts(labels: Label[], total = 20): Contact[] {
   return Array.from({ length: total }, () => {
     const selectedLabels = faker.helpers.arrayElements(labelNames, {
       min: 1,
-      max: 3,
+      max: 5,
     });
 
     return {
