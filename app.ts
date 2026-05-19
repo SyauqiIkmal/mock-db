@@ -1,7 +1,7 @@
 import { faker } from '@faker-js/faker';
 import fs from 'node:fs';
 
-function generateContact(total = 100) {
+function generateContact(total = 20) {
   const usersArray = [];
 
   for (let i = 1; i <= total; i++) {
