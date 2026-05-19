@@ -46,6 +46,7 @@ function generateLabel(total = 5) {
         labelsArray.push({
             id: faker.string.uuid(),
             labelName: faker.commerce.department(),
+            labelDescription: faker.lorem.sentence(),
             color: faker.color.human(),
             totalContacts: faker.number.int({ min: 1, max: 100 }),
         });
