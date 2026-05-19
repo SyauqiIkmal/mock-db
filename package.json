@@ -1,0 +1,28 @@
+{
+  "name": "mock-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyauqiIkmal/mock-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyauqiIkmal/mock-db/issues"
+  },
+  "homepage": "https://github.com/SyauqiIkmal/mock-db#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "@types/node": "^25.9.0",
+    "prettier": "^3.8.3",
+    "typescript": "^6.0.3"
+  }
+}
