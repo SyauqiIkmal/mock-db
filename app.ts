@@ -12,6 +12,7 @@ interface Label {
 interface Contact {
   id: string;
   contactName: string;
+  avatar: string;
   channel: string;
   phoneNumber: string;
   email: string;
@@ -42,6 +43,7 @@ function generateContacts(labels: Label[], total = 20): Contact[] {
     return {
       id: faker.string.uuid(),
       contactName: faker.person.fullName(),
+      avatar: faker.image.avatar(),
       channel: faker.helpers.arrayElement(['WhatsApp', 'Instagram', 'Telegram']),
       phoneNumber: faker.phone.number(),
       email: faker.internet.email(),
