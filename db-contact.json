@@ -1,0 +1,1213 @@
+{
+  "contacts": [
+    {
+      "contactId": "2edb1094-71da-4f5d-8211-30fdf432b895",
+      "contactName": "Sartika Mardhiyah",
+      "avatar": "https://avatars.githubusercontent.com/u/19284611",
+      "channel": [
+        "Instagram",
+        "Facebook"
+      ],
+      "contactBsuid": "NoWkLCyX6vPE",
+      "phoneNumber": "0622 4401 2058",
+      "email": "Akarsana_Oktaviani@yahoo.co.id",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "64eb9664-52a7-49d0-917c-424bb7b97ef9",
+      "contactName": "Hafshah Hafshah Susanti",
+      "avatar": "https://avatars.githubusercontent.com/u/22708160",
+      "channel": [
+        "WhatsApp",
+        "Facebook",
+        "Telegram"
+      ],
+      "contactBsuid": "KLqJrigXhIMV",
+      "phoneNumber": "(+62) 890 9264 4052",
+      "email": "Ade_Situmorang@yahoo.com",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [],
+      "groupId": "522cc18a-5a47-4e98-beda-b65ee12eb959",
+      "isBlocked": true
+    },
+    {
+      "contactId": "0fbcb7a5-dd1e-4670-b11b-b1b6965562b6",
+      "contactName": "Firmansyah Yosef",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/86.jpg",
+      "channel": [
+        "Twitter",
+        "Instagram",
+        "Telegram"
+      ],
+      "contactBsuid": "AmDTuCHNO1na",
+      "phoneNumber": "0287 8011 3235",
+      "email": "Kasim.Mahestri46@gmail.com",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c",
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "df55d593-e62e-4dfc-8b7f-77525434656f"
+      ],
+      "groupId": "4efb85da-31cc-4020-82d3-ce55a92e5799",
+      "isBlocked": false
+    },
+    {
+      "contactId": "75c3b7c0-baf9-4510-a34d-0b145b2b0b7f",
+      "contactName": "Putri Putri Hartati",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/77.jpg",
+      "channel": [
+        "Instagram",
+        "WhatsApp",
+        "Twitter"
+      ],
+      "contactBsuid": "jeR3bImNifTZ",
+      "phoneNumber": "0437 1662 5952",
+      "email": "Usyi_Rajasa@yahoo.co.id",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [],
+      "groupId": "d0901621-9de2-4b72-af83-eaf4ed71a601",
+      "isBlocked": false
+    },
+    {
+      "contactId": "5fb8b8c7-4642-4243-a994-f35a1eb4b704",
+      "contactName": "Paramita Paramita Harini",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/82.jpg",
+      "channel": [
+        "Telegram",
+        "Instagram"
+      ],
+      "contactBsuid": "nz65wgdLR4n1",
+      "phoneNumber": "0718 9897 660",
+      "email": "Yani82@yahoo.com",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [
+        "df55d593-e62e-4dfc-8b7f-77525434656f",
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": "522cc18a-5a47-4e98-beda-b65ee12eb959",
+      "isBlocked": false
+    },
+    {
+      "contactId": "963da7db-d8bd-4228-b456-fffd1bc36252",
+      "contactName": "Clara Yuniar",
+      "avatar": "https://avatars.githubusercontent.com/u/45795712",
+      "channel": [
+        "WhatsApp",
+        "Telegram",
+        "Twitter"
+      ],
+      "contactBsuid": "Os51Rnjr7c5c",
+      "phoneNumber": "025 7294 5836",
+      "email": "Irawati_Ardianto@gmail.com",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "df55d593-e62e-4dfc-8b7f-77525434656f"
+      ],
+      "groupId": "9d058130-4ff1-4022-ad32-5e3752416067",
+      "isBlocked": false
+    },
+    {
+      "contactId": "8a569cbf-3f50-45e9-b5c8-9695e36199b2",
+      "contactName": "Endah Endah Mahestri",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/83.jpg",
+      "channel": [
+        "Telegram",
+        "WhatsApp"
+      ],
+      "contactBsuid": "F7VGBtoaeTGD",
+      "phoneNumber": "(+62) 961 2076 430",
+      "email": "Humaira4@gmail.co.id",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8",
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05",
+        "df55d593-e62e-4dfc-8b7f-77525434656f"
+      ],
+      "groupId": "d0901621-9de2-4b72-af83-eaf4ed71a601",
+      "isBlocked": false
+    },
+    {
+      "contactId": "3a62f384-3f58-4cd9-94c4-a4b139b7598d",
+      "contactName": "Afifah Ade",
+      "avatar": "https://avatars.githubusercontent.com/u/93247505",
+      "channel": [
+        "WhatsApp",
+        "Telegram",
+        "Facebook"
+      ],
+      "contactBsuid": "fRc5XGGFT5NU",
+      "phoneNumber": "(+62) 785 3964 529",
+      "email": "Cawisadi11@gmail.co.id",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "77a0f5a3-3390-49be-a071-87fd4f519c35",
+      "contactName": "Prita Prita Uyainah",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/73.jpg",
+      "channel": [
+        "Instagram"
+      ],
+      "contactBsuid": "AkozzUNebBKh",
+      "phoneNumber": "0301 0937 165",
+      "email": "Hartana63@yahoo.com",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c",
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "2a42531e-e1e1-4085-b0b5-afbec237fdc4",
+      "contactName": "Dwi Dwi Kurniawan",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/42.jpg",
+      "channel": [
+        "WhatsApp"
+      ],
+      "contactBsuid": "jAzU6Ina6aF1",
+      "phoneNumber": "(+62) 715 2240 282",
+      "email": "Amelia66@gmail.co.id",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "ed2bcb97-b0cf-48d1-8fd9-fb43bce38b51",
+      "contactName": "Prabu Prabu Damanik",
+      "avatar": "https://avatars.githubusercontent.com/u/16262492",
+      "channel": [
+        "Twitter",
+        "Instagram"
+      ],
+      "contactBsuid": "SrBqMh95uaJX",
+      "phoneNumber": "(+62) 730 2974 892",
+      "email": "Daliono23@yahoo.co.id",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [],
+      "groupId": "07ae72a3-3139-49f5-ae9e-b6ae67c7f7d9",
+      "isBlocked": false
+    },
+    {
+      "contactId": "e8dc5bc0-ebd4-488c-bfde-8cf3c18929ee",
+      "contactName": "Rachel Rachel Prastuti",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/66.jpg",
+      "channel": [
+        "Instagram",
+        "Telegram"
+      ],
+      "contactBsuid": "OAqCo5DyTsKL",
+      "phoneNumber": "0605 4064 5941",
+      "email": "Febriana.Nathania57@yahoo.co.id",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": "522cc18a-5a47-4e98-beda-b65ee12eb959",
+      "isBlocked": false
+    },
+    {
+      "contactId": "01594530-f236-4636-8970-1bce38bea96e",
+      "contactName": "Bambang Tamba",
+      "avatar": "https://avatars.githubusercontent.com/u/54445256",
+      "channel": [
+        "Facebook"
+      ],
+      "contactBsuid": "6IpZwPmQ5h4y",
+      "phoneNumber": "0552 9404 624",
+      "email": "Hafshah53@gmail.co.id",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8",
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "df55d593-e62e-4dfc-8b7f-77525434656f"
+      ],
+      "groupId": "d0901621-9de2-4b72-af83-eaf4ed71a601",
+      "isBlocked": false
+    },
+    {
+      "contactId": "3bb99e37-ceec-4c50-a465-6f0bbb2e12f4",
+      "contactName": "Kawaya Nugraha",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/53.jpg",
+      "channel": [
+        "Telegram",
+        "WhatsApp",
+        "Facebook"
+      ],
+      "contactBsuid": "uXLWwGwuAkgc",
+      "phoneNumber": "0543 7111 7609",
+      "email": "Mulyono57@yahoo.co.id",
+      "tierId": "e76ff9c8-5c58-4355-8831-100a5e204dff",
+      "labelIds": [
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c",
+        "df55d593-e62e-4dfc-8b7f-77525434656f",
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a"
+      ],
+      "groupId": "4efb85da-31cc-4020-82d3-ce55a92e5799",
+      "isBlocked": true
+    },
+    {
+      "contactId": "bfd16d47-491a-497c-b6ea-45c0514e00e3",
+      "contactName": "Rachel Rachel Melinda",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/0.jpg",
+      "channel": [
+        "Facebook"
+      ],
+      "contactBsuid": "1ogjNoSmUl7Z",
+      "phoneNumber": "(+62) 574 0573 220",
+      "email": "Ade.Yuniar70@gmail.co.id",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [],
+      "groupId": "522cc18a-5a47-4e98-beda-b65ee12eb959",
+      "isBlocked": false
+    },
+    {
+      "contactId": "9a178bb9-e291-44fb-91bc-e38f46c54711",
+      "contactName": "Yuniar Rahayu",
+      "avatar": "https://avatars.githubusercontent.com/u/52713537",
+      "channel": [
+        "Facebook"
+      ],
+      "contactBsuid": "do9WHW0RFOmU",
+      "phoneNumber": "0455 3858 457",
+      "email": "Puji82@yahoo.com",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": "522cc18a-5a47-4e98-beda-b65ee12eb959",
+      "isBlocked": false
+    },
+    {
+      "contactId": "d22e8381-48e4-4882-b1d4-096f013d7088",
+      "contactName": "Prasetyo Budiman",
+      "avatar": "https://avatars.githubusercontent.com/u/3617600",
+      "channel": [
+        "Facebook"
+      ],
+      "contactBsuid": "GYDkWF2Ckhse",
+      "phoneNumber": "(+62) 350 4574 5568",
+      "email": "Nur_Azzahra@gmail.com",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8",
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05"
+      ],
+      "groupId": null,
+      "isBlocked": true
+    },
+    {
+      "contactId": "c1d04293-d0c5-4057-a2cd-376a86d26e28",
+      "contactName": "Kartika Permata",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/0.jpg",
+      "channel": [
+        "Twitter",
+        "WhatsApp"
+      ],
+      "contactBsuid": "fTVS0USNbhWG",
+      "phoneNumber": "022 5560 114",
+      "email": "Gaiman_Aryani@gmail.co.id",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [
+        "df55d593-e62e-4dfc-8b7f-77525434656f",
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "113b0ba0-fde6-4dd7-b710-d4804bfa86f3",
+      "contactName": "Afifah Natalia",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/51.jpg",
+      "channel": [
+        "Twitter",
+        "Instagram"
+      ],
+      "contactBsuid": "GQbDrnBViYFe",
+      "phoneNumber": "0276 2218 030",
+      "email": "Puti_Permata@yahoo.com",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c",
+        "df55d593-e62e-4dfc-8b7f-77525434656f"
+      ],
+      "groupId": "d0901621-9de2-4b72-af83-eaf4ed71a601",
+      "isBlocked": false
+    },
+    {
+      "contactId": "49f48886-a060-4a50-bfbb-a5d27ae62fda",
+      "contactName": "Rosalina Fujiati",
+      "avatar": "https://avatars.githubusercontent.com/u/28697105",
+      "channel": [
+        "Instagram",
+        "Twitter"
+      ],
+      "contactBsuid": "V0TxIvskIZYm",
+      "phoneNumber": "(+62) 436 9698 472",
+      "email": "Adiarja_Lazuardi88@gmail.com",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [],
+      "groupId": "9d058130-4ff1-4022-ad32-5e3752416067",
+      "isBlocked": false
+    },
+    {
+      "contactId": "df3a4068-0a53-4095-b867-dcadd4caa183",
+      "contactName": "Ditya Afifah",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/60.jpg",
+      "channel": [
+        "Telegram",
+        "Twitter"
+      ],
+      "contactBsuid": "6VBzJI6vyy8O",
+      "phoneNumber": "(+62) 683 4898 2091",
+      "email": "Tri.Prakasa@yahoo.co.id",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c",
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05"
+      ],
+      "groupId": "522cc18a-5a47-4e98-beda-b65ee12eb959",
+      "isBlocked": false
+    },
+    {
+      "contactId": "3fbfc35c-bac9-41d1-9b9a-0822ba446374",
+      "contactName": "Salimah Salimah Ananda",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/35.jpg",
+      "channel": [
+        "Twitter",
+        "Telegram",
+        "WhatsApp"
+      ],
+      "contactBsuid": "EtMUahyMJao1",
+      "phoneNumber": "0954 4491 800",
+      "email": "Tina.Jelita41@yahoo.com",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": "9d058130-4ff1-4022-ad32-5e3752416067",
+      "isBlocked": false
+    },
+    {
+      "contactId": "aee6ba70-8516-4ff4-bd34-e37fa74a733f",
+      "contactName": "Farida Fathonah",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/6.jpg",
+      "channel": [
+        "Facebook",
+        "WhatsApp"
+      ],
+      "contactBsuid": "M9OH6JrMS4ew",
+      "phoneNumber": "(+62) 745 2530 3578",
+      "email": "Danang81@gmail.co.id",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [],
+      "groupId": "d0901621-9de2-4b72-af83-eaf4ed71a601",
+      "isBlocked": false
+    },
+    {
+      "contactId": "59a281fd-ff4e-430c-9090-8e53ee95e555",
+      "contactName": "Hani Mulyani",
+      "avatar": "https://avatars.githubusercontent.com/u/44989578",
+      "channel": [
+        "Telegram",
+        "Facebook"
+      ],
+      "contactBsuid": "d7FoWNgfMIQE",
+      "phoneNumber": "0695 9850 475",
+      "email": "Ulva34@gmail.com",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "156f7411-0d7f-494b-80df-a9f27cdd93e3",
+      "contactName": "Wahyuni Titin",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/6.jpg",
+      "channel": [
+        "Instagram"
+      ],
+      "contactBsuid": "Ej2hXUHJNzJn",
+      "phoneNumber": "0284 3110 676",
+      "email": "Harsaya_Mansur13@gmail.com",
+      "tierId": "e76ff9c8-5c58-4355-8831-100a5e204dff",
+      "labelIds": [
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": "9d058130-4ff1-4022-ad32-5e3752416067",
+      "isBlocked": false
+    },
+    {
+      "contactId": "73765ea9-31ab-4ae8-9c07-193972a5d826",
+      "contactName": "Hardiansyah Arta",
+      "avatar": "https://avatars.githubusercontent.com/u/12041745",
+      "channel": [
+        "WhatsApp",
+        "Twitter",
+        "Telegram"
+      ],
+      "contactBsuid": "CTTPBBNqzRiQ",
+      "phoneNumber": "(+62) 810 9645 7117",
+      "email": "Vera_Budiman22@gmail.com",
+      "tierId": "e76ff9c8-5c58-4355-8831-100a5e204dff",
+      "labelIds": [
+        "df55d593-e62e-4dfc-8b7f-77525434656f",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": "07ae72a3-3139-49f5-ae9e-b6ae67c7f7d9",
+      "isBlocked": false
+    },
+    {
+      "contactId": "98e8f8e1-b8f8-4b4d-b9e1-b5a5dfae001a",
+      "contactName": "Ida Ida Astuti",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/78.jpg",
+      "channel": [
+        "Instagram",
+        "Telegram"
+      ],
+      "contactBsuid": "Q0BwvpHtBBPj",
+      "phoneNumber": "(+62) 769 3686 8350",
+      "email": "Warsita.Kusmawati98@gmail.co.id",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "55946b2b-ca14-439c-abd5-9216bf4101ef",
+      "contactName": "Mumpuni Mumpuni Prasetya",
+      "avatar": "https://avatars.githubusercontent.com/u/67314372",
+      "channel": [
+        "Twitter",
+        "Instagram"
+      ],
+      "contactBsuid": "rVcoiZuamFWk",
+      "phoneNumber": "(+62) 986 2494 1596",
+      "email": "Niyaga45@gmail.co.id",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05",
+        "df55d593-e62e-4dfc-8b7f-77525434656f"
+      ],
+      "groupId": "07ae72a3-3139-49f5-ae9e-b6ae67c7f7d9",
+      "isBlocked": false
+    },
+    {
+      "contactId": "7ec3a4c1-0d71-4948-a0de-52dcb8178f13",
+      "contactName": "Farhunnisa Lestari",
+      "avatar": "https://avatars.githubusercontent.com/u/87147890",
+      "channel": [
+        "Telegram",
+        "Instagram"
+      ],
+      "contactBsuid": "kBK31nO93k9y",
+      "phoneNumber": "(+62) 578 7089 821",
+      "email": "Retno.Damayanti67@yahoo.com",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "df55d593-e62e-4dfc-8b7f-77525434656f"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "563aa1cd-b086-4ac5-b1bf-7a76ab8e894c",
+      "contactName": "Jinawi Faresta",
+      "avatar": "https://avatars.githubusercontent.com/u/26130533",
+      "channel": [
+        "Telegram",
+        "Instagram",
+        "Twitter"
+      ],
+      "contactBsuid": "lK59xkd3hMzs",
+      "phoneNumber": "0706 5221 9887",
+      "email": "Candrakanta.Gunawan52@yahoo.com",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "923dce59-d6a1-4ac4-8831-1484390f4391",
+      "contactName": "Panca Panca Mahendra",
+      "avatar": "https://avatars.githubusercontent.com/u/46875133",
+      "channel": [
+        "Telegram",
+        "Instagram",
+        "WhatsApp"
+      ],
+      "contactBsuid": "AaeS83bTGjla",
+      "phoneNumber": "(+62) 962 2941 701",
+      "email": "Balapati.Prabowo71@gmail.co.id",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "95c7ea36-d94d-4a6f-99fd-d85a48bc5a76",
+      "contactName": "Budiyanto Soleh",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/78.jpg",
+      "channel": [
+        "Instagram"
+      ],
+      "contactBsuid": "nG2xOlyoWMdB",
+      "phoneNumber": "0839 7103 0940",
+      "email": "Prita_Juwita@gmail.co.id",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [
+        "df55d593-e62e-4dfc-8b7f-77525434656f"
+      ],
+      "groupId": "07ae72a3-3139-49f5-ae9e-b6ae67c7f7d9",
+      "isBlocked": false
+    },
+    {
+      "contactId": "3394a8f0-feca-4c65-99ea-aaeb40f288dd",
+      "contactName": "Cagak Utama",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/8.jpg",
+      "channel": [
+        "Twitter"
+      ],
+      "contactBsuid": "uHAcu0ZJhT19",
+      "phoneNumber": "0304 9498 5004",
+      "email": "Elma33@gmail.co.id",
+      "tierId": "e76ff9c8-5c58-4355-8831-100a5e204dff",
+      "labelIds": [
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "8cc79c82-fc8c-4634-9a50-e926b17efb60",
+      "contactName": "Anggriawan Galuh",
+      "avatar": "https://avatars.githubusercontent.com/u/10148710",
+      "channel": [
+        "Instagram",
+        "Telegram",
+        "Twitter"
+      ],
+      "contactBsuid": "w1yjgt9BaYlI",
+      "phoneNumber": "(+62) 604 9288 096",
+      "email": "Hartaka_Hasanah@gmail.co.id",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": "d0901621-9de2-4b72-af83-eaf4ed71a601",
+      "isBlocked": false
+    },
+    {
+      "contactId": "db661ab8-9dd7-412f-a8b4-97d394b02d7b",
+      "contactName": "Hairyanto Agustian",
+      "avatar": "https://avatars.githubusercontent.com/u/88903596",
+      "channel": [
+        "Telegram",
+        "Twitter"
+      ],
+      "contactBsuid": "cl37f5gPbcKT",
+      "phoneNumber": "0647 6775 3247",
+      "email": "Rina1@yahoo.co.id",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8",
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a"
+      ],
+      "groupId": "9d058130-4ff1-4022-ad32-5e3752416067",
+      "isBlocked": false
+    },
+    {
+      "contactId": "5d3cb07d-b5fe-46eb-9b98-d8cbd0e1c673",
+      "contactName": "Harjasa Harjasa Fabian",
+      "avatar": "https://avatars.githubusercontent.com/u/72586488",
+      "channel": [
+        "Instagram",
+        "Facebook",
+        "Twitter"
+      ],
+      "contactBsuid": "VymrivA9rA4A",
+      "phoneNumber": "(+62) 861 203 415",
+      "email": "Eli2@yahoo.com",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "c7c51912-1622-41d9-a577-e19d125c25b2",
+      "contactName": "Yusuf Ardana",
+      "avatar": "https://avatars.githubusercontent.com/u/63480274",
+      "channel": [
+        "WhatsApp",
+        "Facebook",
+        "Twitter"
+      ],
+      "contactBsuid": "rsYzJ0hwX1zC",
+      "phoneNumber": "(+62) 878 8553 130",
+      "email": "Mahmud47@yahoo.com",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8",
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "7937b9d7-6c7c-4c74-84c2-18ac679cd62f",
+      "contactName": "Zulkarnain Galak",
+      "avatar": "https://avatars.githubusercontent.com/u/28228896",
+      "channel": [
+        "Twitter",
+        "Facebook"
+      ],
+      "contactBsuid": "ZXhmu4hRhuBf",
+      "phoneNumber": "0601 1670 025",
+      "email": "Eka.Marpaung77@gmail.co.id",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "6c524a46-face-400f-b553-926db08048b8",
+      "contactName": "Pradipta Chandra",
+      "avatar": "https://avatars.githubusercontent.com/u/4432220",
+      "channel": [
+        "Telegram",
+        "Twitter"
+      ],
+      "contactBsuid": "RdgopQpcJPEb",
+      "phoneNumber": "(+62) 791 3076 808",
+      "email": "Melinda.Damanik28@yahoo.com",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05",
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8"
+      ],
+      "groupId": "d0901621-9de2-4b72-af83-eaf4ed71a601",
+      "isBlocked": false
+    },
+    {
+      "contactId": "a7887fce-7283-4843-9ca4-ab241443a469",
+      "contactName": "Andini Jessica",
+      "avatar": "https://avatars.githubusercontent.com/u/19807702",
+      "channel": [
+        "WhatsApp"
+      ],
+      "contactBsuid": "R89ayrPD4XT4",
+      "phoneNumber": "0629 5316 121",
+      "email": "Lala.Widodo41@yahoo.com",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8",
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c"
+      ],
+      "groupId": "d0901621-9de2-4b72-af83-eaf4ed71a601",
+      "isBlocked": false
+    },
+    {
+      "contactId": "05f89d6e-bd68-46a5-bcc9-b1244967224f",
+      "contactName": "Taufan Taufan Abimanyu",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/17.jpg",
+      "channel": [
+        "Twitter"
+      ],
+      "contactBsuid": "i8NYu1PggXY2",
+      "phoneNumber": "(+62) 345 5260 100",
+      "email": "Makara.Nuraini@gmail.co.id",
+      "tierId": "e76ff9c8-5c58-4355-8831-100a5e204dff",
+      "labelIds": [
+        "34a6e50a-5871-4e88-b925-65b7d7147a0c"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "e33858c3-ea4d-49c1-80b9-315c524afcfd",
+      "contactName": "Susanti Talia",
+      "avatar": "https://avatars.githubusercontent.com/u/14109019",
+      "channel": [
+        "WhatsApp",
+        "Twitter",
+        "Telegram"
+      ],
+      "contactBsuid": "u7Sr95O5kzbs",
+      "phoneNumber": "0519 7909 7345",
+      "email": "Jagapati.Yulianti89@gmail.co.id",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "6c6fcd70-2ec8-407e-9116-38562256b66f",
+      "contactName": "Antoni Raharja",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/66.jpg",
+      "channel": [
+        "Facebook",
+        "Telegram",
+        "WhatsApp"
+      ],
+      "contactBsuid": "jzq2TvYTVseD",
+      "phoneNumber": "(+62) 460 9060 4287",
+      "email": "Bagas_Juwita@yahoo.com",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "6ede8c18-66cd-4046-8948-361d73cb0b32",
+      "contactName": "Kurniawan Artanto",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/65.jpg",
+      "channel": [
+        "Twitter"
+      ],
+      "contactBsuid": "E8CB2r6uW3Gl",
+      "phoneNumber": "0783 4395 6443",
+      "email": "Bakiadi_Himawan79@gmail.com",
+      "tierId": "e76ff9c8-5c58-4355-8831-100a5e204dff",
+      "labelIds": [],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "349dd504-97ed-4166-8611-fdc3b877b02c",
+      "contactName": "Padma Padma Hastuti",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/7.jpg",
+      "channel": [
+        "Facebook",
+        "Instagram"
+      ],
+      "contactBsuid": "2IEwPoOg6LKo",
+      "phoneNumber": "0811 5695 671",
+      "email": "Hari9@gmail.com",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [
+        "9d8b216d-eb43-4d64-89fe-3e35a646e8e8",
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a"
+      ],
+      "groupId": "522cc18a-5a47-4e98-beda-b65ee12eb959",
+      "isBlocked": false
+    },
+    {
+      "contactId": "954364d3-ac62-4bb0-81d8-c842bde4f6f0",
+      "contactName": "Dian Kusuma",
+      "avatar": "https://avatars.githubusercontent.com/u/96237698",
+      "channel": [
+        "WhatsApp",
+        "Telegram",
+        "Twitter"
+      ],
+      "contactBsuid": "kddTwnE6RveW",
+      "phoneNumber": "(+62) 489 2195 275",
+      "email": "Setya7@gmail.co.id",
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "labelIds": [],
+      "groupId": "522cc18a-5a47-4e98-beda-b65ee12eb959",
+      "isBlocked": false
+    },
+    {
+      "contactId": "766aaa4b-7941-4cac-ac16-c04cab592e90",
+      "contactName": "Cakrabuana Cakrabuana Yudhistira",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/85.jpg",
+      "channel": [
+        "Telegram"
+      ],
+      "contactBsuid": "GvaKXsPHAvRw",
+      "phoneNumber": "(+62) 203 4406 8382",
+      "email": "Dirja_Mahestri@gmail.co.id",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+        "df55d593-e62e-4dfc-8b7f-77525434656f"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "a9843ea6-a56b-42e2-84a2-8e48e05b068b",
+      "contactName": "Usman Wibisono",
+      "avatar": "https://avatars.githubusercontent.com/u/14132155",
+      "channel": [
+        "WhatsApp",
+        "Facebook"
+      ],
+      "contactBsuid": "v0wfPWFCFI2A",
+      "phoneNumber": "(+62) 585 8884 202",
+      "email": "Cemani.Hastuti@yahoo.com",
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "labelIds": [
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05",
+        "df55d593-e62e-4dfc-8b7f-77525434656f",
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "9f901e4d-c3fe-4140-932c-50581b0acbcf",
+      "contactName": "Oktovian Embuh",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/86.jpg",
+      "channel": [
+        "Twitter",
+        "Telegram"
+      ],
+      "contactBsuid": "uSHZpOsPbia1",
+      "phoneNumber": "(+62) 866 8138 6476",
+      "email": "Lili25@gmail.com",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [
+        "df55d593-e62e-4dfc-8b7f-77525434656f",
+        "df06f0cc-e2c9-4a9f-b64b-f4611a248e05",
+        "d3ca2e15-7d42-4ea1-aee2-542502e1d09a"
+      ],
+      "groupId": null,
+      "isBlocked": false
+    },
+    {
+      "contactId": "c8810170-dd37-4278-abba-06850851894d",
+      "contactName": "Limar Uwais",
+      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/72.jpg",
+      "channel": [
+        "WhatsApp",
+        "Telegram",
+        "Twitter"
+      ],
+      "contactBsuid": "A6sH1Pw7oSEf",
+      "phoneNumber": "(+62) 837 180 586",
+      "email": "Drajat36@yahoo.co.id",
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "labelIds": [],
+      "groupId": null,
+      "isBlocked": false
+    }
+  ],
+  "labels": [
+    {
+      "labelId": "df55d593-e62e-4dfc-8b7f-77525434656f",
+      "labelName": "VIP",
+      "labelColor": "#ef4444",
+      "totalContacts": [
+        "0fbcb7a5-dd1e-4670-b11b-b1b6965562b6",
+        "5fb8b8c7-4642-4243-a994-f35a1eb4b704",
+        "963da7db-d8bd-4228-b456-fffd1bc36252",
+        "8a569cbf-3f50-45e9-b5c8-9695e36199b2",
+        "01594530-f236-4636-8970-1bce38bea96e",
+        "3bb99e37-ceec-4c50-a465-6f0bbb2e12f4",
+        "c1d04293-d0c5-4057-a2cd-376a86d26e28",
+        "113b0ba0-fde6-4dd7-b710-d4804bfa86f3",
+        "73765ea9-31ab-4ae8-9c07-193972a5d826",
+        "55946b2b-ca14-439c-abd5-9216bf4101ef",
+        "7ec3a4c1-0d71-4948-a0de-52dcb8178f13",
+        "95c7ea36-d94d-4a6f-99fd-d85a48bc5a76",
+        "766aaa4b-7941-4cac-ac16-c04cab592e90",
+        "a9843ea6-a56b-42e2-84a2-8e48e05b068b",
+        "9f901e4d-c3fe-4140-932c-50581b0acbcf"
+      ]
+    },
+    {
+      "labelId": "34a6e50a-5871-4e88-b925-65b7d7147a0c",
+      "labelName": "New",
+      "labelColor": "#3b82f6",
+      "totalContacts": [
+        "0fbcb7a5-dd1e-4670-b11b-b1b6965562b6",
+        "77a0f5a3-3390-49be-a071-87fd4f519c35",
+        "3bb99e37-ceec-4c50-a465-6f0bbb2e12f4",
+        "9a178bb9-e291-44fb-91bc-e38f46c54711",
+        "113b0ba0-fde6-4dd7-b710-d4804bfa86f3",
+        "df3a4068-0a53-4095-b867-dcadd4caa183",
+        "3394a8f0-feca-4c65-99ea-aaeb40f288dd",
+        "db661ab8-9dd7-412f-a8b4-97d394b02d7b",
+        "7937b9d7-6c7c-4c74-84c2-18ac679cd62f",
+        "a7887fce-7283-4843-9ca4-ab241443a469",
+        "05f89d6e-bd68-46a5-bcc9-b1244967224f"
+      ]
+    },
+    {
+      "labelId": "9d8b216d-eb43-4d64-89fe-3e35a646e8e8",
+      "labelName": "Loyal",
+      "labelColor": "#22c55e",
+      "totalContacts": [
+        "5fb8b8c7-4642-4243-a994-f35a1eb4b704",
+        "8a569cbf-3f50-45e9-b5c8-9695e36199b2",
+        "77a0f5a3-3390-49be-a071-87fd4f519c35",
+        "e8dc5bc0-ebd4-488c-bfde-8cf3c18929ee",
+        "01594530-f236-4636-8970-1bce38bea96e",
+        "9a178bb9-e291-44fb-91bc-e38f46c54711",
+        "d22e8381-48e4-4882-b1d4-096f013d7088",
+        "3fbfc35c-bac9-41d1-9b9a-0822ba446374",
+        "59a281fd-ff4e-430c-9090-8e53ee95e555",
+        "156f7411-0d7f-494b-80df-a9f27cdd93e3",
+        "73765ea9-31ab-4ae8-9c07-193972a5d826",
+        "563aa1cd-b086-4ac5-b1bf-7a76ab8e894c",
+        "923dce59-d6a1-4ac4-8831-1484390f4391",
+        "8cc79c82-fc8c-4634-9a50-e926b17efb60",
+        "db661ab8-9dd7-412f-a8b4-97d394b02d7b",
+        "c7c51912-1622-41d9-a577-e19d125c25b2",
+        "6c524a46-face-400f-b553-926db08048b8",
+        "a7887fce-7283-4843-9ca4-ab241443a469",
+        "349dd504-97ed-4166-8611-fdc3b877b02c"
+      ]
+    },
+    {
+      "labelId": "df06f0cc-e2c9-4a9f-b64b-f4611a248e05",
+      "labelName": "Prospect",
+      "labelColor": "#f59e0b",
+      "totalContacts": [
+        "5fb8b8c7-4642-4243-a994-f35a1eb4b704",
+        "8a569cbf-3f50-45e9-b5c8-9695e36199b2",
+        "77a0f5a3-3390-49be-a071-87fd4f519c35",
+        "2a42531e-e1e1-4085-b0b5-afbec237fdc4",
+        "d22e8381-48e4-4882-b1d4-096f013d7088",
+        "c1d04293-d0c5-4057-a2cd-376a86d26e28",
+        "df3a4068-0a53-4095-b867-dcadd4caa183",
+        "98e8f8e1-b8f8-4b4d-b9e1-b5a5dfae001a",
+        "55946b2b-ca14-439c-abd5-9216bf4101ef",
+        "8cc79c82-fc8c-4634-9a50-e926b17efb60",
+        "6c524a46-face-400f-b553-926db08048b8",
+        "a9843ea6-a56b-42e2-84a2-8e48e05b068b",
+        "9f901e4d-c3fe-4140-932c-50581b0acbcf"
+      ]
+    },
+    {
+      "labelId": "d3ca2e15-7d42-4ea1-aee2-542502e1d09a",
+      "labelName": "Inactive",
+      "labelColor": "#6b7280",
+      "totalContacts": [
+        "0fbcb7a5-dd1e-4670-b11b-b1b6965562b6",
+        "963da7db-d8bd-4228-b456-fffd1bc36252",
+        "01594530-f236-4636-8970-1bce38bea96e",
+        "3bb99e37-ceec-4c50-a465-6f0bbb2e12f4",
+        "3fbfc35c-bac9-41d1-9b9a-0822ba446374",
+        "59a281fd-ff4e-430c-9090-8e53ee95e555",
+        "98e8f8e1-b8f8-4b4d-b9e1-b5a5dfae001a",
+        "563aa1cd-b086-4ac5-b1bf-7a76ab8e894c",
+        "923dce59-d6a1-4ac4-8831-1484390f4391",
+        "8cc79c82-fc8c-4634-9a50-e926b17efb60",
+        "db661ab8-9dd7-412f-a8b4-97d394b02d7b",
+        "c7c51912-1622-41d9-a577-e19d125c25b2",
+        "7937b9d7-6c7c-4c74-84c2-18ac679cd62f",
+        "349dd504-97ed-4166-8611-fdc3b877b02c",
+        "766aaa4b-7941-4cac-ac16-c04cab592e90",
+        "a9843ea6-a56b-42e2-84a2-8e48e05b068b",
+        "9f901e4d-c3fe-4140-932c-50581b0acbcf"
+      ]
+    }
+  ],
+  "tiers": [
+    {
+      "tierId": "eeb518f4-4815-4d25-b702-d6fe12c9e019",
+      "numberPriority": 1,
+      "tierName": "Bronze",
+      "tierColor": "#cd7f32",
+      "tierStatus": "Inactive",
+      "totalContacts": [
+        "2edb1094-71da-4f5d-8211-30fdf432b895",
+        "0fbcb7a5-dd1e-4670-b11b-b1b6965562b6",
+        "3a62f384-3f58-4cd9-94c4-a4b139b7598d",
+        "2a42531e-e1e1-4085-b0b5-afbec237fdc4",
+        "d22e8381-48e4-4882-b1d4-096f013d7088",
+        "113b0ba0-fde6-4dd7-b710-d4804bfa86f3",
+        "98e8f8e1-b8f8-4b4d-b9e1-b5a5dfae001a",
+        "923dce59-d6a1-4ac4-8831-1484390f4391",
+        "95c7ea36-d94d-4a6f-99fd-d85a48bc5a76",
+        "8cc79c82-fc8c-4634-9a50-e926b17efb60",
+        "5d3cb07d-b5fe-46eb-9b98-d8cbd0e1c673",
+        "e33858c3-ea4d-49c1-80b9-315c524afcfd",
+        "766aaa4b-7941-4cac-ac16-c04cab592e90",
+        "9f901e4d-c3fe-4140-932c-50581b0acbcf",
+        "c8810170-dd37-4278-abba-06850851894d"
+      ]
+    },
+    {
+      "tierId": "e76ff9c8-5c58-4355-8831-100a5e204dff",
+      "numberPriority": 2,
+      "tierName": "Silver",
+      "tierColor": "#c0c0c0",
+      "tierStatus": "Inactive",
+      "totalContacts": [
+        "3bb99e37-ceec-4c50-a465-6f0bbb2e12f4",
+        "156f7411-0d7f-494b-80df-a9f27cdd93e3",
+        "73765ea9-31ab-4ae8-9c07-193972a5d826",
+        "3394a8f0-feca-4c65-99ea-aaeb40f288dd",
+        "05f89d6e-bd68-46a5-bcc9-b1244967224f",
+        "6ede8c18-66cd-4046-8948-361d73cb0b32"
+      ]
+    },
+    {
+      "tierId": "765409ed-d348-48f4-8326-69c73f5dfba9",
+      "numberPriority": 3,
+      "tierName": "Gold",
+      "tierColor": "#ffd700",
+      "tierStatus": "Active",
+      "totalContacts": [
+        "75c3b7c0-baf9-4510-a34d-0b145b2b0b7f",
+        "963da7db-d8bd-4228-b456-fffd1bc36252",
+        "ed2bcb97-b0cf-48d1-8fd9-fb43bce38b51",
+        "e8dc5bc0-ebd4-488c-bfde-8cf3c18929ee",
+        "01594530-f236-4636-8970-1bce38bea96e",
+        "bfd16d47-491a-497c-b6ea-45c0514e00e3",
+        "9a178bb9-e291-44fb-91bc-e38f46c54711",
+        "df3a4068-0a53-4095-b867-dcadd4caa183",
+        "55946b2b-ca14-439c-abd5-9216bf4101ef",
+        "7ec3a4c1-0d71-4948-a0de-52dcb8178f13",
+        "db661ab8-9dd7-412f-a8b4-97d394b02d7b",
+        "7937b9d7-6c7c-4c74-84c2-18ac679cd62f",
+        "6c524a46-face-400f-b553-926db08048b8",
+        "6c6fcd70-2ec8-407e-9116-38562256b66f",
+        "349dd504-97ed-4166-8611-fdc3b877b02c",
+        "954364d3-ac62-4bb0-81d8-c842bde4f6f0"
+      ]
+    },
+    {
+      "tierId": "e54a84cc-d033-4b9a-bf12-5dfefa56417e",
+      "numberPriority": 4,
+      "tierName": "Platinum",
+      "tierColor": "#e5e4e2",
+      "tierStatus": "Inactive",
+      "totalContacts": [
+        "64eb9664-52a7-49d0-917c-424bb7b97ef9",
+        "5fb8b8c7-4642-4243-a994-f35a1eb4b704",
+        "8a569cbf-3f50-45e9-b5c8-9695e36199b2",
+        "77a0f5a3-3390-49be-a071-87fd4f519c35",
+        "c1d04293-d0c5-4057-a2cd-376a86d26e28",
+        "49f48886-a060-4a50-bfbb-a5d27ae62fda",
+        "3fbfc35c-bac9-41d1-9b9a-0822ba446374",
+        "aee6ba70-8516-4ff4-bd34-e37fa74a733f",
+        "59a281fd-ff4e-430c-9090-8e53ee95e555",
+        "563aa1cd-b086-4ac5-b1bf-7a76ab8e894c",
+        "c7c51912-1622-41d9-a577-e19d125c25b2",
+        "a7887fce-7283-4843-9ca4-ab241443a469",
+        "a9843ea6-a56b-42e2-84a2-8e48e05b068b"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "groupId": "4efb85da-31cc-4020-82d3-ce55a92e5799",
+      "groupName": "Purnawarman (Persero) Tbk",
+      "groupDescription": "Secured maximized parallelism",
+      "totalContacts": [
+        "0fbcb7a5-dd1e-4670-b11b-b1b6965562b6",
+        "3bb99e37-ceec-4c50-a465-6f0bbb2e12f4",
+        "5fb8b8c7-4642-4243-a994-f35a1eb4b704",
+        "55946b2b-ca14-439c-abd5-9216bf4101ef",
+        "954364d3-ac62-4bb0-81d8-c842bde4f6f0",
+        "bfd16d47-491a-497c-b6ea-45c0514e00e3"
+      ]
+    },
+    {
+      "groupId": "07ae72a3-3139-49f5-ae9e-b6ae67c7f7d9",
+      "groupName": "KKB Usada",
+      "groupDescription": "Exclusive coherent knowledge user",
+      "totalContacts": [
+        "a7887fce-7283-4843-9ca4-ab241443a469",
+        "55946b2b-ca14-439c-abd5-9216bf4101ef",
+        "8a569cbf-3f50-45e9-b5c8-9695e36199b2",
+        "95c7ea36-d94d-4a6f-99fd-d85a48bc5a76",
+        "73765ea9-31ab-4ae8-9c07-193972a5d826",
+        "ed2bcb97-b0cf-48d1-8fd9-fb43bce38b51",
+        "8cc79c82-fc8c-4634-9a50-e926b17efb60"
+      ]
+    },
+    {
+      "groupId": "9d058130-4ff1-4022-ad32-5e3752416067",
+      "groupName": "UD Kusuma",
+      "groupDescription": "Smart context-sensitive contingency",
+      "totalContacts": [
+        "e8dc5bc0-ebd4-488c-bfde-8cf3c18929ee",
+        "954364d3-ac62-4bb0-81d8-c842bde4f6f0",
+        "a7887fce-7283-4843-9ca4-ab241443a469",
+        "49f48886-a060-4a50-bfbb-a5d27ae62fda",
+        "156f7411-0d7f-494b-80df-a9f27cdd93e3",
+        "db661ab8-9dd7-412f-a8b4-97d394b02d7b",
+        "3fbfc35c-bac9-41d1-9b9a-0822ba446374",
+        "963da7db-d8bd-4228-b456-fffd1bc36252"
+      ]
+    },
+    {
+      "groupId": "d0901621-9de2-4b72-af83-eaf4ed71a601",
+      "groupName": "Lailasari Tbk",
+      "groupDescription": "Team-oriented hybrid alliance",
+      "totalContacts": [
+        "8a569cbf-3f50-45e9-b5c8-9695e36199b2",
+        "8cc79c82-fc8c-4634-9a50-e926b17efb60",
+        "113b0ba0-fde6-4dd7-b710-d4804bfa86f3",
+        "aee6ba70-8516-4ff4-bd34-e37fa74a733f",
+        "01594530-f236-4636-8970-1bce38bea96e",
+        "a7887fce-7283-4843-9ca4-ab241443a469",
+        "6c524a46-face-400f-b553-926db08048b8",
+        "75c3b7c0-baf9-4510-a34d-0b145b2b0b7f"
+      ]
+    },
+    {
+      "groupId": "522cc18a-5a47-4e98-beda-b65ee12eb959",
+      "groupName": "Utami Tbk",
+      "groupDescription": "Fully-configurable actuating open architecture",
+      "totalContacts": [
+        "954364d3-ac62-4bb0-81d8-c842bde4f6f0",
+        "5fb8b8c7-4642-4243-a994-f35a1eb4b704",
+        "9a178bb9-e291-44fb-91bc-e38f46c54711",
+        "349dd504-97ed-4166-8611-fdc3b877b02c",
+        "64eb9664-52a7-49d0-917c-424bb7b97ef9",
+        "bfd16d47-491a-497c-b6ea-45c0514e00e3",
+        "e8dc5bc0-ebd4-488c-bfde-8cf3c18929ee",
+        "df3a4068-0a53-4095-b867-dcadd4caa183"
+      ]
+    }
+  ],
+  "blockedContacts": [
+    {
+      "contactId": "64eb9664-52a7-49d0-917c-424bb7b97ef9",
+      "blockedDetail": "Celer cognomen creta ullam testimonium colligo articulus viridis.",
+      "blockedDate": "2026-03-28T12:14:18.811Z",
+      "blockedBy": "Nanda"
+    },
+    {
+      "contactId": "3bb99e37-ceec-4c50-a465-6f0bbb2e12f4",
+      "blockedDetail": "Magni vestrum terminatio bestia antiquus dens defendo.",
+      "blockedDate": "2026-03-14T19:27:17.383Z",
+      "blockedBy": "Maman"
+    },
+    {
+      "contactId": "d22e8381-48e4-4882-b1d4-096f013d7088",
+      "blockedDetail": "Abbas tergo attonbitus adimpleo vestigium magni.",
+      "blockedDate": "2026-05-15T00:31:34.592Z",
+      "blockedBy": "Maman"
+    }
+  ]
+}
